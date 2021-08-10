@@ -1,3 +1,3 @@
 测试
-<img src=q onerror=alert(1)>
+<img src=<script>alert(1)</script> onerror=alert(1)>
 #
